@@ -43,15 +43,15 @@ public class Element {
 
         System.out.println("------------------");
         System.out.println("Elemento não existente 11");
-        find(100, listPopulation11);
+        find(99999, listPopulation11);
 
         System.out.println("------------------");
         System.out.println("Elemento não existente 21");
-        find(100, listPopulation21);
+        find(99999, listPopulation21);
 
         System.out.println("------------------");
         System.out.println("Elemento não existente 42");
-        find(100, listPopulation42);
+        find(99999, listPopulation42);
         System.out.println("--------FIM EXECUÇÃO----------");
     }
 
